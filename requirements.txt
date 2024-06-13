@@ -5,5 +5,4 @@ streamlit
 feature_engine
 xgboost
 joblib
-pickle
 gunicorn
